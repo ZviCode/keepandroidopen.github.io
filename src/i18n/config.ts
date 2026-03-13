@@ -29,6 +29,7 @@ export const languages = {
   "kk": { label: "Қазақша", path: "/kk/" },
 
   // Middle Eastern
+  "he": { label: "עברית", path: "/he/" },
   "ar": { label: "العربية", path: "/ar/" },
   "fa": { label: "فارسی", path: "/fa/" },
 
